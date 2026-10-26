@@ -1,0 +1,6 @@
+{
+  "name": "SheetFlow RBAC - Google Sheets Web App Portal",
+  "description": "Role-based access control enterprise portal powered by Google Sheets and Google Apps Script Web App API with multi-schema data synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
